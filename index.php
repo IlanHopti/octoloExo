@@ -9,10 +9,10 @@
 </head>
 <body>
 
-<div class="allContainer flex h-screen w-screen justify-center items-center text-6xl ">
+<div class="allContainer flex h-screen w-screen justify-center items-center text-6xl bg-sky-900 text-white">
     <div class="dateAndTimeContainer flex flex-col content-around">
         <div class="timezone">
-            <p>Timezones : <span class="font-medium" id="timezone"></span></p>
+            <p>Timezone : <span class="font-medium" id="timezone"></span></p>
         </div>
         <div class="date">
             <p>Date : <span class="font-medium" id="date"></span></p>
